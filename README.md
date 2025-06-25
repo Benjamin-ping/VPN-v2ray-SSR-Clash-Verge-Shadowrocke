@@ -1,7 +1,7 @@
 # VPN-v2ray-SSR-Clash-Verge-Shadowrocke
 # 2025年稳定实惠的翻墙梯子机场推荐与深度评测（持续更新）
 
-**最后更新：2025年5月27日**  
+**最后更新：2025年6月25日**  
 精选实测6个月以上的优质机场，拒绝跑路风险！
 
 ## 🔍 推荐筛选标准
@@ -19,7 +19,8 @@
 
 | 机场名称   | 线路支持       |  最低套餐          | 试用福利     |   按流量购买|  机场特色    |推荐指数 | 专属优惠码   |
 |:------------:|:----------------:|:-------------------:|:-------------:|:-------:|:---------:|:--------------:|:-----------:|
-| [FlyBit](https://flybit.bond/#/register?code=ckrpv0zT)   | IPLC专线+中转       | ¥12/100G/月       | 1天2G  | ✔支持 | 所有线路倍率都是1，使用设备无数量限制 | ★★★★★     | `flybit`    |
+| [FlyBit](https://goflybit.pages.dev/#/register?code=ckrpv0zT)   | IPLC专线+中转       | ¥12/100G/月       | 1天2G  | ✔支持 | 所有线路倍率都是1，使用设备无数量限制 | ★★★★★     | `flybit`    |
+| [99吧](https://99vpn.bar/#/register?code=VqTZrTJo)   | 中转专线       | ¥99/99G/年<br>  ¥99/666G/不限时      |  9G3天  | ✔支持 | 流量无限制，设备无限制，绝对暴力 | ★★★★★     | `618`    |
 | [小蜜蜂](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)   | IPLC专线      | ¥96/60G/年       | 无   |  ✔支持 |  年度旗舰款：96元/年（约8元/月不限速,限时7折）       |   ★★★★☆        | `xmfxmf7`     |
 | [青云梯](https://ivt01.qytaff.cc/register?aff=EZEbaMhj)   | IPLC专线      | ¥96/60G/年       | 无  |   ❌不支持 | 2020.11.1开业，老牌机场   |   ★★★★☆        |  `wuyi85`    |
 | [TNTCloud](https://linksy60gna.tntvipaff.cc/#/register?code=FkHIkFeV)   | IPLC专线      | ¥30/60G/季       | 无   |  ❌不支持 | 季付限量包，低至10元每月     |   ★★★★☆        | `TNT85`     |
@@ -27,7 +28,7 @@
 
 ## 🔥 重点推荐机场
 
-### 1. FlyBit（[官网](https://flybit.bond/#/register?code=ckrpv0zT)）
+### 1. FlyBit（[官网](https://goflybit.pages.dev/#/register?code=ckrpv0zT)）
 **核心亮点：​**
 - 💰 ​**极致性价比**  
   IEPL专线+智能中转混合架构，企业级网络平民价格（¥0.1/GB起）
@@ -54,8 +55,32 @@
 4. 节点覆盖全球50+国家和地区
 ```
 
-  
-### 2. 小蜜蜂（[官网](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)）
+### 2. 99吧（[官网](https://99vpn.bar/#/register?code=VqTZrTJo)）
+**核心亮点：​**
+
+- 🎯 **真·一倍率革命**​​  
+    全网稀有​​1倍率扣流​​（看1GB仅扣1GB），拒绝流量虚标陷阱  
+    对比：市面90%机场采用1.5-10倍率变相缩水流量  
+- 💸 **永不过期神卡​​**  
+​​    666GB永久套餐=一次付费终身高速通道​​（同类产品年费普遍＞200元/年）  
+    轻量版99元/年=日均0.27元，吊打按量付费模式  
+	
+| 套餐类型       | 价格|流量额度                | 有效期               |适合人群          |
+|----------------|----|-------------------------|------------------------|------------|
+|极速轻量版​​|	￥99 |每月99GB	|​​1年|​​	聊天/网页/1080P党|
+|无限狂飙版|￥99 |​​666GB总量​​|	​​永久​​|	4K狂魔/下载党|
+- 📱 **全终端零限制**​​  
+    支持Win/Mac/iOS/安卓/路由器，​​5设备同时在线​​  
+    无需复杂配置，一键连接8K流媒体（Netflix/Disney+实测秒开）  
+- 🚨 **超维客服体验**​​  
+    问题平均解决时间≤7分钟（行业平均2小时+）  
+    7×24小时响应，技术问题直达工程师  
+	
+	
+​​**​​「<span style="color:red">晚高峰不限速的真专线</span>」+「<span style="color:red">1倍率透明流量</span>」+「<span style="color:red">永不过期神卡</span>」+「<span style="color:red">保姆级服务</span>」=2025年性价比天花板**​​
+
+
+### 3. 小蜜蜂（[官网](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)）
 **核心优势：​**
 - 🚀 **顶级网络架构​​**  
 ​​  全IPLC物理专线​​：企业级专线通道，无公网跳转  
@@ -75,7 +100,7 @@
   支付宝/微信/​​USDT​​即时到账  
   企业级​​对公账户​​支持
   
-### 3. 青云梯（[官网](https://ivt01.qytaff.cc/register?aff=EZEbaMhj)）
+### 4. 青云梯（[官网](https://ivt01.qytaff.cc/register?aff=EZEbaMhj)）
 **核心优势：​**
 - **🏆 五年稳定运营**  
    `2020.11开业至今`｜零跑路记录｜海外专业团队7×24h维护
@@ -94,7 +119,7 @@
   ▸ 真人客服秒响应（非机器人）  
   ▸ 新手保姆级教程库
   
-### 4. TNTCloud（[官网](https://linksy60gna.tntvipaff.cc/#/register?code=FkHIkFeV)）
+### 5. TNTCloud（[官网](https://linksy60gna.tntvipaff.cc/#/register?code=FkHIkFeV)）
 **核心优势：​**
 - 🌐 **IPLC物理专线​​​​**  
   ▸ 全链路企业级专线，零公网暴露  
@@ -118,7 +143,7 @@
   ▸ 支付兼容：支付宝/微信/​​USDT即时到账
 
  
-### 5. 银河云（[官网](https://inv02.galaxyaff.cc/register?aff=mQ4CgqXD)）
+### 6. 银河云（[官网](https://inv02.galaxyaff.cc/register?aff=mQ4CgqXD)）
 **核心优势：​**  
 - **🏆 新加坡海外旗舰机房**  
    - 企业级物理设施 · 军事级安防    
