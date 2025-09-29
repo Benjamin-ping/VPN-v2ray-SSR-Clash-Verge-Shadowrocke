@@ -55,7 +55,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 
 4.  **重要提示**：如果系统弹出“Apple ID 安全”提示，要求你升级账户，请务必选择“**其他选项**”，然后选择“**不升级**”，以避免不必要的麻烦。
 
-    ![在 App Store 中登录账号的步骤图](https://mahu.blog/assets/shadowsocket_0-BWHVYxjq.jpg)
+    ![在 App Store 中登录账号的步骤图](https://youke1.picui.cn/s1/2025/09/29/68da06eb59a29.jpg)
 
 5.  成功登录后，你的 App Store 界面会自动切换到对应区域。此时，在搜索框中搜索 `Shadowrocket`。
 
@@ -63,7 +63,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 
 7.  下载完成记得退出账号。
 
-    ![在 App Store 中搜索并下载 Shadowrocket 的截图](https://mahu.blog/assets/shadowrocket%E4%B8%8B%E8%BD%BD-CIR_-P4f.jpg)
+    ![在 App Store 中搜索并下载 Shadowrocket 的截图](https://youke1.picui.cn/s1/2025/09/29/68da05814b482.jpg)
 
 ---
 
