@@ -63,7 +63,8 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 
 7.  下载完成记得退出账号。
 
-    ![在 App Store 中搜索并下载 Shadowrocket 的截图](https://youke1.picui.cn/s1/2025/09/29/68da05814b482.jpg)
+
+<img width="475" height="317" alt="在 App Store 中搜索并下载 Shadowrocket 的截图" src="https://github.com/user-attachments/assets/a9ec3af9-2569-4768-a7f8-3f2108349da1" />
 
 ---
 
