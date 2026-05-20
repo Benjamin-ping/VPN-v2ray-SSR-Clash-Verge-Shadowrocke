@@ -13,7 +13,8 @@ headers = {
 try:
     response = requests.get(url, headers=headers)
     data = response.json()
-    id_lists = data.get("idLists", [])[:5]  # 默认只取前 5 个最稳定的账号展示
+    # 去掉了 [:5] 的限制，获取查询到的全部账号
+    id_lists = data.get("idLists", [])
 except Exception as e:
     print(f"抓取账号失败: {e}")
     exit(1)
@@ -48,4 +49,4 @@ new_file_data = re.sub(pattern, replacement, file_data, flags=re.DOTALL)
 with open(file_path, "w", encoding="utf-8") as f:
     f.write(new_file_data)
 
-print(f"get-apple-id.md 账号列表已于 {last_update_time} 更新成功！")
+print(f"get-apple-id.md 账号列表（共 {len(id_lists)} 个）已于 {last_update_time} 更新成功！")
