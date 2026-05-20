@@ -13,7 +13,6 @@ headers = {
 try:
     response = requests.get(url, headers=headers)
     data = response.json()
-    # 去掉了 [:5] 的限制，获取查询到的全部账号
     id_lists = data.get("idLists", [])
 except Exception as e:
     print(f"抓取账号失败: {e}")
@@ -26,15 +25,30 @@ last_update_time = now_beijing.strftime("%Y-%m-%d %H:%M:%S")
 
 # 2. 生成 Markdown 表格
 table_content = "##### 💡 当前可用共享账号列表（系统自动更新）\n\n"
-# 添加上次刷新时间提示
 table_content += f"> 🕒 **上次刷新时间**：`{last_update_time}` (北京时间，系统每 10 分钟检测一次)\n\n"
 
-table_content += "| 序号 | 地区 | 共享 Apple ID 账号 | 解锁密码 | 状态 |\n"
+table_content += "| 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |\n"
 table_content += "| :--- | :---: | :--- | :--- | :---: |\n"
+
 for index, item in enumerate(id_lists):
-    # 去除可能夹杂的单双引号
-    password = item['password'].replace("'", "").replace('"', "")
-    table_content += f"| {index + 1} | 美区 | `{item['email']}` | `{password}` | 🟢 正常 |\n"
+    # 格式化账号单元格，使用 code 标签方便读者双击复制
+    email_cell = f"<code>{item['email']}</code>"
+    
+    # 清理密码中夹杂的引号
+    raw_pw = item['password'].replace("'", "").replace('"', "")
+    
+    # 自动生成掩码（保留前2位，后面全部替换为黑色圆点）
+    if len(raw_pw) > 2:
+        masked_pw = raw_pw[:2] + "•" * (len(raw_pw) - 2)
+    else:
+        # 密码极短时的安全兜底
+        masked_pw = raw_pw[:1] + "•" * (len(raw_pw) - 1) if raw_pw else "••"
+    
+    # 利用 HTML details 标签在表格内实现安全的“折叠/展开密码”
+    password_cell = f"<details><summary>🔑 <code>{masked_pw}</code></summary><code>{raw_pw}</code></details>"
+    
+    # 追加到表格行（保持单行写入以防 Markdown 表格语法破裂）
+    table_content += f"| {index + 1} | 美区 | {email_cell} | {password_cell} | 🟢 正常 |\n"
 
 # 3. 读取并更新 get-apple-id.md
 file_path = "get-apple-id.md"
@@ -49,4 +63,4 @@ new_file_data = re.sub(pattern, replacement, file_data, flags=re.DOTALL)
 with open(file_path, "w", encoding="utf-8") as f:
     f.write(new_file_data)
 
-print(f"get-apple-id.md 账号列表（共 {len(id_lists)} 个）已于 {last_update_time} 更新成功！")
+print(f"get-apple-id.md 账号列表（共 {len(id_lists)} 个）已于 {last_update_time} 成功生成！")
