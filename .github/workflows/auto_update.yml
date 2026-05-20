@@ -2,9 +2,9 @@ name: Auto Update Apple IDs
 
 on:
   schedule:
-    # 每天每 6 小时自动执行一次（定时任务）
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # 允许您手动点击按钮立即更新
+    # 更改为每 10 分钟自动执行一次
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # 仍保留手动触发按钮
 
 jobs:
   update:
@@ -29,6 +29,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add get-apple-id.md
-        # 仅在账号数据确实变化时提交修改
         git diff-index --quiet HEAD || git commit -m "docs: auto update shared accounts"
         git push
