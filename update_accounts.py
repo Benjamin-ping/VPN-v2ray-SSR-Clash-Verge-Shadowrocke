@@ -25,7 +25,7 @@ last_update_time = now_beijing.strftime("%Y-%m-%d %H:%M:%S")
 
 # 2. 生成 Markdown 表格
 table_content = "##### 💡 当前可用共享账号列表（系统自动更新）\n\n"
-table_content += f"> 🕒 **上次刷新时间**：`{last_update_time}` (北京时间，系统每 10 分钟检测一次)\n\n"
+table_content += f"> 🕒 **上次刷新时间**：`{last_update_time}` (北京时间，系统每 6 小时检测一次)\n\n"
 
 table_content += "| 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |\n"
 table_content += "| :--- | :---: | :--- | :--- | :---: |\n"
