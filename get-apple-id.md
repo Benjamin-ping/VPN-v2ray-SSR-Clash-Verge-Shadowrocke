@@ -43,17 +43,17 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-08 05:01:06` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-08 05:49:37` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
 | 1 | 美区 | <code>quodonnell@gmail.com</code> | <details><summary>🔑 <code>Dd•••••••</code></summary><code>Dd10096da</code></details> | 🟢 正常 |
-| 2 | 美区 | <code>david7zksmunoz@hotmail.com</code> | <details><summary>🔑 <code>Tz••••••</code></summary><code>TzTx3!zd</code></details> | 🟢 正常 |
-| 3 | 美区 | <code>DeborazpiHarr967@icloud.com</code> | <details><summary>🔑 <code>x5••••••••</code></summary><code>x5Qt9ch9m9</code></details> | 🟢 正常 |
-| 4 | 美区 | <code>jarvarisrivetteuf3409@gmail.com</code> | <details><summary>🔑 <code>VG••••••••</code></summary><code>VG7j2eeg4C</code></details> | 🟢 正常 |
+| 2 | 美区 | <code>david7zksmunoz@hotmail.com</code> | <details><summary>🔑 <code>x5••••••••</code></summary><code>x5Qt9ch9m9</code></details> | 🟢 正常 |
+| 3 | 美区 | <code>DeborazpiHarr967@icloud.com</code> | <details><summary>🔑 <code>VG••••••••</code></summary><code>VG7j2eeg4C</code></details> | 🟢 正常 |
+| 4 | 美区 | <code>jarvarisrivetteuf3409@gmail.com</code> | <details><summary>🔑 <code>44••••••••••••</code></summary><code>44s41NP3MD5pf3</code></details> | 🟢 正常 |
 | 5 | 美区 | <code>AllenMilliepyl879@gmail.com</code> | <details><summary>🔑 <code>44••••••••••••</code></summary><code>44s41NP3MD5pf3</code></details> | 🟢 正常 |
 | 6 | 美区 | <code>BettyGarcia5be56@gmail.com</code> | <details><summary>🔑 <code>44••••••••••••</code></summary><code>44s4nrRa3yZnJ5</code></details> | 🟢 正常 |
-| 7 | 美区 | <code>1738264581@qq.com</code> | <details><summary>🔑 <code>8x••••••••</code></summary><code>8x3kNNzfqw</code></details> | 🟢 正常 |
+| 7 | 美区 | <code>1738264581@qq.com</code> | <details><summary>🔑 <code>Z5••••••••</code></summary><code>Z5nFqPp5NP</code></details> | 🟢 正常 |
 | 8 | 美区 | <code>rosskennedyjreg5953@gmail.com</code> | <details><summary>🔑 <code>De••••••••</code></summary><code>De1Hm1h7a9</code></details> | 🟢 正常 |
 | 9 | 美区 | <code>VedderEarlrbpjhf@gmail.com</code> | <details><summary>🔑 <code>4P••••••••</code></summary><code>4PdNahXmqR</code></details> | 🟢 正常 |
 | 10 | 美区 | <code>andersenproschvc2764@gmail.com</code> | <details><summary>🔑 <code>FA••••••••</code></summary><code>FAy8cCAE8R</code></details> | 🟢 正常 |
@@ -87,7 +87,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 38 | 美区 | <code>REBELPRIDE79@hotmail.com</code> | <details><summary>🔑 <code>6C••••••••</code></summary><code>6CFTdyJpNA</code></details> | 🟢 正常 |
 | 39 | 美区 | <code>MaryJames8912r@outlook.com</code> | <details><summary>🔑 <code>qv••••••••</code></summary><code>qvTyRt2uCw</code></details> | 🟢 正常 |
 | 40 | 美区 | <code>13955617626@163.com</code> | <details><summary>🔑 <code>eu••••••••</code></summary><code>eu5EvMqJWS</code></details> | 🟢 正常 |
-| 41 | 美区 | <code>18772419294@163.com</code> | <details><summary>🔑 <code>Hx••••••••</code></summary><code>HxFjuqdKK9</code></details> | 🟢 正常 |
+| 41 | 美区 | <code>18772419294@163.com</code> | <details><summary>🔑 <code>a9••••••••</code></summary><code>a9wsQ3dkwV</code></details> | 🟢 正常 |
 | 42 | 美区 | <code>13514137403@163.com</code> | <details><summary>🔑 <code>2n••••••••</code></summary><code>2n9As5vNTe</code></details> | 🟢 正常 |
 | 43 | 美区 | <code>13701440388@163.com</code> | <details><summary>🔑 <code>gE••••••••</code></summary><code>gERBk8B8cQ</code></details> | 🟢 正常 |
 | 44 | 美区 | <code>13559385004@163.com</code> | <details><summary>🔑 <code>Nh••••••••</code></summary><code>Nh7WBXMHAm</code></details> | 🟢 正常 |
