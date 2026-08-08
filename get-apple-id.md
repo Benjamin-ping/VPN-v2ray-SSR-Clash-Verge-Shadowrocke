@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-09 06:26:20` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-09 06:53:46` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -107,13 +107,13 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 58 | 美区 | <code>18830739138@163.com</code> | <details><summary>🔑 <code>KR••••••••</code></summary><code>KR54wJwB5J</code></details> | 🟢 正常 |
 | 59 | 美区 | <code>15202454541@163.com</code> | <details><summary>🔑 <code>MU••••••••</code></summary><code>MUY1bTkZYJ</code></details> | 🟢 正常 |
 | 60 | 美区 | <code>18295079648@163.com</code> | <details><summary>🔑 <code>21••••••••</code></summary><code>21c7ZdzfA8</code></details> | 🟢 正常 |
-| 61 | 美区 | <code>burne_525845@icloud.com</code> | <details><summary>🔑 <code>Cz••••••••</code></summary><code>Cz5kbS4YBr</code></details> | 🟢 正常 |
-| 62 | 美区 | <code>samuel_4961@icloud.com</code> | <details><summary>🔑 <code>8q••••••••</code></summary><code>8qT6mCRpa2</code></details> | 🟢 正常 |
-| 63 | 美区 | <code>13967216864@163.com</code> | <details><summary>🔑 <code>53••••••••</code></summary><code>53WzafbaWb</code></details> | 🟢 正常 |
-| 64 | 美区 | <code>18860023962@163.com</code> | <details><summary>🔑 <code>zK••••••••</code></summary><code>zKJWGURR4p</code></details> | 🟢 正常 |
-| 65 | 美区 | <code>1578009387@qq.com</code> | <details><summary>🔑 <code>Z4••••••••</code></summary><code>Z4T4vJUbqr</code></details> | 🟢 正常 |
-| 66 | 美区 | <code>clinton_3144@icloud.com</code> | <details><summary>🔑 <code>zQ••••••••</code></summary><code>zQFmdSRZ7a</code></details> | 🟢 正常 |
-| 67 | 美区 | <code>zangwill_43812@icloud.com</code> | <details><summary>🔑 <code>fG••••••••</code></summary><code>fGnr8Xvu8s</code></details> | 🟢 正常 |
+| 61 | 美区 | <code>burne_525845@icloud.com</code> | <details><summary>🔑 <code>U5••••••••</code></summary><code>U5fSr7Mxz8</code></details> | 🟢 正常 |
+| 62 | 美区 | <code>zangwill_43812@icloud.com</code> | <details><summary>🔑 <code>8r••••••••</code></summary><code>8rS1WvKN8X</code></details> | 🟢 正常 |
+| 63 | 美区 | <code>samuel_4961@icloud.com</code> | <details><summary>🔑 <code>4k••••••••</code></summary><code>4kVFYw5PuM</code></details> | 🟢 正常 |
+| 64 | 美区 | <code>13967216864@163.com</code> | <details><summary>🔑 <code>53••••••••</code></summary><code>53WzafbaWb</code></details> | 🟢 正常 |
+| 65 | 美区 | <code>18860023962@163.com</code> | <details><summary>🔑 <code>zK••••••••</code></summary><code>zKJWGURR4p</code></details> | 🟢 正常 |
+| 66 | 美区 | <code>1578009387@qq.com</code> | <details><summary>🔑 <code>Z4••••••••</code></summary><code>Z4T4vJUbqr</code></details> | 🟢 正常 |
+| 67 | 美区 | <code>clinton_3144@icloud.com</code> | <details><summary>🔑 <code>zQ••••••••</code></summary><code>zQFmdSRZ7a</code></details> | 🟢 正常 |
 | 68 | 美区 | <code>13701440388@163.com</code> | <details><summary>🔑 <code>eW••••••••</code></summary><code>eWa75bWz4q</code></details> | 🟢 正常 |
 | 69 | 美区 | <code>13775997399@163.com</code> | <details><summary>🔑 <code>4w••••••••</code></summary><code>4wrnbnK7vQ</code></details> | 🟢 正常 |
 | 70 | 美区 | <code>1577901573@qq.com</code> | <details><summary>🔑 <code>uh••••••••</code></summary><code>uh9JMcC38w</code></details> | 🟢 正常 |
