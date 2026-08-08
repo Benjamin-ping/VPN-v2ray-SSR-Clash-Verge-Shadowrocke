@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-09 06:53:46` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-09 07:15:02` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -91,7 +91,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 42 | 美区 | <code>18660739377@163.com</code> | <details><summary>🔑 <code>Z7••••••••</code></summary><code>Z7uyW3rYZn</code></details> | 🟢 正常 |
 | 43 | 美区 | <code>MaryJames8912r@outlook.com</code> | <details><summary>🔑 <code>qv••••••••</code></summary><code>qvTyRt2uCw</code></details> | 🟢 正常 |
 | 44 | 美区 | <code>13955617626@163.com</code> | <details><summary>🔑 <code>K7••••••••</code></summary><code>K7dXCt6dD6</code></details> | 🟢 正常 |
-| 45 | 美区 | <code>13861629829@163.com</code> | <details><summary>🔑 <code>HA••••••••</code></summary><code>HA2ZBSwFEM</code></details> | 🟢 正常 |
+| 45 | 美区 | <code>13861629829@163.com</code> | <details><summary>🔑 <code>Fy••••••••</code></summary><code>FyW6fu5vRR</code></details> | 🟢 正常 |
 | 46 | 美区 | <code>2686088221@qq.com</code> | <details><summary>🔑 <code>p6••••••••</code></summary><code>p6sDZr7Unz</code></details> | 🟢 正常 |
 | 47 | 美区 | <code>13760110258@163.com</code> | <details><summary>🔑 <code>sZ••••••••</code></summary><code>sZv9WU8dhC</code></details> | 🟢 正常 |
 | 48 | 美区 | <code>13103228908@163.com</code> | <details><summary>🔑 <code>YW••••••••</code></summary><code>YWP3SE1rq1</code></details> | 🟢 正常 |
