@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-09 07:15:02` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-09 07:44:47` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -106,7 +106,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 57 | 美区 | <code>1780243873@qq.com</code> | <details><summary>🔑 <code>Nt••••••••</code></summary><code>NtfBzmyKk5</code></details> | 🟢 正常 |
 | 58 | 美区 | <code>18830739138@163.com</code> | <details><summary>🔑 <code>KR••••••••</code></summary><code>KR54wJwB5J</code></details> | 🟢 正常 |
 | 59 | 美区 | <code>15202454541@163.com</code> | <details><summary>🔑 <code>MU••••••••</code></summary><code>MUY1bTkZYJ</code></details> | 🟢 正常 |
-| 60 | 美区 | <code>18295079648@163.com</code> | <details><summary>🔑 <code>21••••••••</code></summary><code>21c7ZdzfA8</code></details> | 🟢 正常 |
+| 60 | 美区 | <code>18295079648@163.com</code> | <details><summary>🔑 <code>h6••••••••</code></summary><code>h6GcPzz9xB</code></details> | 🟢 正常 |
 | 61 | 美区 | <code>burne_525845@icloud.com</code> | <details><summary>🔑 <code>U5••••••••</code></summary><code>U5fSr7Mxz8</code></details> | 🟢 正常 |
 | 62 | 美区 | <code>zangwill_43812@icloud.com</code> | <details><summary>🔑 <code>8r••••••••</code></summary><code>8rS1WvKN8X</code></details> | 🟢 正常 |
 | 63 | 美区 | <code>samuel_4961@icloud.com</code> | <details><summary>🔑 <code>4k••••••••</code></summary><code>4kVFYw5PuM</code></details> | 🟢 正常 |
