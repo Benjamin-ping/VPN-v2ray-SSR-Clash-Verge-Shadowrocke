@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-10 06:11:25` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-10 06:49:38` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -91,12 +91,12 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 42 | 美区 | <code>18660739377@163.com</code> | <details><summary>🔑 <code>Xd••••••••</code></summary><code>Xdq467UeVN</code></details> | 🟢 正常 |
 | 43 | 美区 | <code>18226752172@163.com</code> | <details><summary>🔑 <code>1r••••••••</code></summary><code>1rFynw4HmZ</code></details> | 🟢 正常 |
 | 44 | 美区 | <code>18858700809@163.com</code> | <details><summary>🔑 <code>Dv••••••••</code></summary><code>DvQcHQ7NQK</code></details> | 🟢 正常 |
-| 45 | 美区 | <code>13559385004@163.com</code> | <details><summary>🔑 <code>db••••••••</code></summary><code>dbS9JwwXSJ</code></details> | 🟢 正常 |
-| 46 | 美区 | <code>13861629829@163.com</code> | <details><summary>🔑 <code>XE••••••••</code></summary><code>XE7ysduBqv</code></details> | 🟢 正常 |
-| 47 | 美区 | <code>RichardMills2270sO@outlook.com</code> | <details><summary>🔑 <code>J4••••••••</code></summary><code>J473K9akMv</code></details> | 🟢 正常 |
+| 45 | 美区 | <code>ErikRodriguez6673tN@outlook.com</code> | <details><summary>🔑 <code>1U••••••••</code></summary><code>1UWSMtcFYh</code></details> | 🟢 正常 |
+| 46 | 美区 | <code>13559385004@163.com</code> | <details><summary>🔑 <code>db••••••••</code></summary><code>dbS9JwwXSJ</code></details> | 🟢 正常 |
+| 47 | 美区 | <code>13861629829@163.com</code> | <details><summary>🔑 <code>XE••••••••</code></summary><code>XE7ysduBqv</code></details> | 🟢 正常 |
 | 48 | 美区 | <code>2178089682@qq.com</code> | <details><summary>🔑 <code>XD••••••••</code></summary><code>XDS2PFSgSc</code></details> | 🟢 正常 |
 | 49 | 美区 | <code>18755995959@163.com</code> | <details><summary>🔑 <code>fv••••••••</code></summary><code>fvHq5kDUuQ</code></details> | 🟢 正常 |
-| 50 | 美区 | <code>1456461372@qq.com</code> | <details><summary>🔑 <code>TN••••••••</code></summary><code>TNvBaR1Xyr</code></details> | 🟢 正常 |
+| 50 | 美区 | <code>1456461372@qq.com</code> | <details><summary>🔑 <code>mS••••••••</code></summary><code>mSjDFu3X73</code></details> | 🟢 正常 |
 | 51 | 美区 | <code>bluestar831214@163.com</code> | <details><summary>🔑 <code>pU••••••••</code></summary><code>pUVtx8X9f5</code></details> | 🟢 正常 |
 | 52 | 美区 | <code>17603666846@163.com</code> | <details><summary>🔑 <code>qu••••••••</code></summary><code>quZc1nmbmr</code></details> | 🟢 正常 |
 | 53 | 美区 | <code>15381168301@163.com</code> | <details><summary>🔑 <code>FW••••••••</code></summary><code>FWS6YSwrQn</code></details> | 🟢 正常 |
@@ -114,11 +114,11 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 65 | 美区 | <code>18968225444@163.com</code> | <details><summary>🔑 <code>48••••••••</code></summary><code>48JXVp6BDB</code></details> | 🟢 正常 |
 | 66 | 美区 | <code>15877239678@163.com</code> | <details><summary>🔑 <code>ZQ••••••••</code></summary><code>ZQeBj1UwWZ</code></details> | 🟢 正常 |
 | 67 | 美区 | <code>MarissaSnyder4380@outlook.com</code> | <details><summary>🔑 <code>R7••••••••</code></summary><code>R7FDe6mBtJ</code></details> | 🟢 正常 |
-| 68 | 美区 | <code>JordanCarpentercytv@outlook.com</code> | <details><summary>🔑 <code>Pq••••••••</code></summary><code>PqX79gwAHe</code></details> | 🟢 正常 |
-| 69 | 美区 | <code>EdwardTownsendbj@outlook.com</code> | <details><summary>🔑 <code>1j••••••••</code></summary><code>1jE3aP41tv</code></details> | 🟢 正常 |
-| 70 | 美区 | <code>13802291776@163.com</code> | <details><summary>🔑 <code>bZ••••••••</code></summary><code>bZpqavV5Ae</code></details> | 🟢 正常 |
-| 71 | 美区 | <code>15844714442@163.com</code> | <details><summary>🔑 <code>G2••••••••</code></summary><code>G2G2Cxb8fp</code></details> | 🟢 正常 |
-| 72 | 美区 | <code>ErikRodriguez6673tN@outlook.com</code> | <details><summary>🔑 <code>B1••••••••</code></summary><code>B1s9BpbrW8</code></details> | 🟢 正常 |
+| 68 | 美区 | <code>EdwardTownsendbj@outlook.com</code> | <details><summary>🔑 <code>k7••••••••</code></summary><code>k7brSHSHcu</code></details> | 🟢 正常 |
+| 69 | 美区 | <code>RichardMills2270sO@outlook.com</code> | <details><summary>🔑 <code>J4••••••••</code></summary><code>J473K9akMv</code></details> | 🟢 正常 |
+| 70 | 美区 | <code>JordanCarpentercytv@outlook.com</code> | <details><summary>🔑 <code>Pq••••••••</code></summary><code>PqX79gwAHe</code></details> | 🟢 正常 |
+| 71 | 美区 | <code>13802291776@163.com</code> | <details><summary>🔑 <code>bZ••••••••</code></summary><code>bZpqavV5Ae</code></details> | 🟢 正常 |
+| 72 | 美区 | <code>15844714442@163.com</code> | <details><summary>🔑 <code>G2••••••••</code></summary><code>G2G2Cxb8fp</code></details> | 🟢 正常 |
 | 73 | 美区 | <code>13961442966@163.com</code> | <details><summary>🔑 <code>X8••••••••</code></summary><code>X8xWRJuxx5</code></details> | 🟢 正常 |
 | 74 | 美区 | <code>samuel_4961@icloud.com</code> | <details><summary>🔑 <code>nK••••••••</code></summary><code>nK51d8swKB</code></details> | 🟢 正常 |
 | 75 | 美区 | <code>467759262@qq.com</code> | <details><summary>🔑 <code>Cn••••••••</code></summary><code>CnA4CJcpKC</code></details> | 🟢 正常 |
