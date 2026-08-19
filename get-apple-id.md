@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-20 06:53:53` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-20 07:11:14` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -86,7 +86,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 37 | 美区 | <code>brittany_314141@icloud.com</code> | <details><summary>🔑 <code>DB••••••••</code></summary><code>DBS81FecAc</code></details> | 🟢 正常 |
 | 38 | 美区 | <code>meng01380@icloud.com</code> | <details><summary>🔑 <code>GB••••••••</code></summary><code>GB2qj84ZZp</code></details> | 🟢 正常 |
 | 39 | 美区 | <code>eddie_3052@icloud.com</code> | <details><summary>🔑 <code>pn••••••••</code></summary><code>pn7ctResY6</code></details> | 🟢 正常 |
-| 40 | 美区 | <code>meyer00275@icloud.com</code> | <details><summary>🔑 <code>UW••••••••</code></summary><code>UW2B8FZdJs</code></details> | 🟢 正常 |
+| 40 | 美区 | <code>meyer00275@icloud.com</code> | <details><summary>🔑 <code>jc••••••••</code></summary><code>jcBYYR9EAw</code></details> | 🟢 正常 |
 | 41 | 美区 | <code>taylorn341@icloud.com</code> | <details><summary>🔑 <code>2Z••••••••</code></summary><code>2ZKJEfSB5K</code></details> | 🟢 正常 |
 | 42 | 美区 | <code>joshuah5078@icloud.com</code> | <details><summary>🔑 <code>PA••••••••</code></summary><code>PA8kQ5dFZF</code></details> | 🟢 正常 |
 | 43 | 美区 | <code>zangwill_43812@icloud.com</code> | <details><summary>🔑 <code>Mh••••••••</code></summary><code>MhDF7HZPMs</code></details> | 🟢 正常 |
@@ -99,7 +99,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 50 | 美区 | <code>18235265599@163.com</code> | <details><summary>🔑 <code>ka••••••••</code></summary><code>kauYxwaTx5</code></details> | 🟢 正常 |
 | 51 | 美区 | <code>18611352332@163.com</code> | <details><summary>🔑 <code>y1••••••••</code></summary><code>y1hqF1TY4W</code></details> | 🟢 正常 |
 | 52 | 美区 | <code>13585241893@163.com</code> | <details><summary>🔑 <code>yt••••••••</code></summary><code>ytvj2MVCb5</code></details> | 🟢 正常 |
-| 53 | 美区 | <code>18663137660@163.com</code> | <details><summary>🔑 <code>vH••••••••</code></summary><code>vHY9Z7bBRs</code></details> | 🟢 正常 |
+| 53 | 美区 | <code>18663137660@163.com</code> | <details><summary>🔑 <code>BB••••••••</code></summary><code>BB3hZv9xjn</code></details> | 🟢 正常 |
 | 54 | 美区 | <code>rosskennedyjreg5953@gmail.com</code> | <details><summary>🔑 <code>De••••••••</code></summary><code>De1Hm1h7a9</code></details> | 🟢 正常 |
 | 55 | 美区 | <code>VedderEarlrbpjhf@gmail.com</code> | <details><summary>🔑 <code>4P••••••••</code></summary><code>4PdNahXmqR</code></details> | 🟢 正常 |
 | 56 | 美区 | <code>andersenproschvc2764@gmail.com</code> | <details><summary>🔑 <code>FA••••••••</code></summary><code>FAy8cCAE8R</code></details> | 🟢 正常 |
