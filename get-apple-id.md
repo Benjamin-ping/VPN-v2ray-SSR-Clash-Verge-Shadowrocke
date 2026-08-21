@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-22 01:16:55` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-22 01:46:38` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -89,36 +89,36 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 40 | 美区 | <code>BettyGarcia5be56@gmail.com</code> | <details><summary>🔑 <code>44••••••••••••</code></summary><code>44s4nrRa3yZnJ5</code></details> | 🟢 正常 |
 | 41 | 美区 | <code>13974763333@163.com</code> | <details><summary>🔑 <code>bY••••••••</code></summary><code>bYXfDgB657</code></details> | 🟢 正常 |
 | 42 | 美区 | <code>18235265599@163.com</code> | <details><summary>🔑 <code>Xv••••••••</code></summary><code>XvZV39QrJs</code></details> | 🟢 正常 |
-| 43 | 美区 | <code>1365754042@qq.com</code> | <details><summary>🔑 <code>S9••••••••</code></summary><code>S9B7g1b5AM</code></details> | 🟢 正常 |
+| 43 | 美区 | <code>1365754042@qq.com</code> | <details><summary>🔑 <code>w4••••••••</code></summary><code>w43Ar64Sc3</code></details> | 🟢 正常 |
 | 44 | 美区 | <code>18604675215@163.com</code> | <details><summary>🔑 <code>j7••••••••</code></summary><code>j7Mstzhk2R</code></details> | 🟢 正常 |
-| 45 | 美区 | <code>18663137660@163.com</code> | <details><summary>🔑 <code>fq••••••••</code></summary><code>fqghPxbyr3</code></details> | 🟢 正常 |
+| 45 | 美区 | <code>18663137660@163.com</code> | <details><summary>🔑 <code>aZ••••••••</code></summary><code>aZ2YJxp9e2</code></details> | 🟢 正常 |
 | 46 | 美区 | <code>rosskennedyjreg5953@gmail.com</code> | <details><summary>🔑 <code>De••••••••</code></summary><code>De1Hm1h7a9</code></details> | 🟢 正常 |
 | 47 | 美区 | <code>VedderEarlrbpjhf@gmail.com</code> | <details><summary>🔑 <code>4P••••••••</code></summary><code>4PdNahXmqR</code></details> | 🟢 正常 |
 | 48 | 美区 | <code>andersenproschvc2764@gmail.com</code> | <details><summary>🔑 <code>FA••••••••</code></summary><code>FAy8cCAE8R</code></details> | 🟢 正常 |
 | 49 | 美区 | <code>michelleqmrwi3@gmail.com</code> | <details><summary>🔑 <code>gM••••••••</code></summary><code>gM7H6p96py</code></details> | 🟢 正常 |
 | 50 | 美区 | <code>uchtredmagowandf5018@gmail.com</code> | <details><summary>🔑 <code>Y3••••••••</code></summary><code>Y3B9gtum4K</code></details> | 🟢 正常 |
 | 51 | 美区 | <code>13921690495@163.com</code> | <details><summary>🔑 <code>Hp••••••••</code></summary><code>HpNuPSJzT4</code></details> | 🟢 正常 |
-| 52 | 美区 | <code>13890266156@163.com</code> | <details><summary>🔑 <code>Mp••••••••</code></summary><code>Mpb9rxB4st</code></details> | 🟢 正常 |
+| 52 | 美区 | <code>13890266156@163.com</code> | <details><summary>🔑 <code>AE••••••••</code></summary><code>AEvNXTrQu6</code></details> | 🟢 正常 |
 | 53 | 美区 | <code>13573305199@163.com</code> | <details><summary>🔑 <code>ea••••••••</code></summary><code>eaWc3WefSv</code></details> | 🟢 正常 |
-| 54 | 美区 | <code>17775206526@163.com</code> | <details><summary>🔑 <code>C4••••••••</code></summary><code>C4AfKxD3pQ</code></details> | 🟢 正常 |
+| 54 | 美区 | <code>17775206526@163.com</code> | <details><summary>🔑 <code>1D••••••••</code></summary><code>1DfmRvWCKU</code></details> | 🟢 正常 |
 | 55 | 美区 | <code>13572257623@163.com</code> | <details><summary>🔑 <code>bW••••••••</code></summary><code>bWCtqvG3th</code></details> | 🟢 正常 |
-| 56 | 美区 | <code>15802630166@163.com</code> | <details><summary>🔑 <code>E4••••••••</code></summary><code>E4uNfEtXSa</code></details> | 🟢 正常 |
+| 56 | 美区 | <code>15802630166@163.com</code> | <details><summary>🔑 <code>JD••••••••</code></summary><code>JDjTyac6wM</code></details> | 🟢 正常 |
 | 57 | 美区 | <code>15869715700@163.com</code> | <details><summary>🔑 <code>Ad••••••••</code></summary><code>AdyxDG8BMU</code></details> | 🟢 正常 |
-| 58 | 美区 | <code>18251318279@163.com</code> | <details><summary>🔑 <code>xX••••••••</code></summary><code>xX2dtSY7Fz</code></details> | 🟢 正常 |
+| 58 | 美区 | <code>18251318279@163.com</code> | <details><summary>🔑 <code>rk••••••••</code></summary><code>rkJHuQD2HV</code></details> | 🟢 正常 |
 | 59 | 美区 | <code>13512904429@163.com</code> | <details><summary>🔑 <code>VB••••••••</code></summary><code>VBCzxX9s1u</code></details> | 🟢 正常 |
-| 60 | 美区 | <code>18660308500@163.com</code> | <details><summary>🔑 <code>EB••••••••</code></summary><code>EBTxhrp5Mw</code></details> | 🟢 正常 |
-| 61 | 美区 | <code>13895445558@163.com</code> | <details><summary>🔑 <code>XT••••••••</code></summary><code>XTgNDcdh3w</code></details> | 🟢 正常 |
-| 62 | 美区 | <code>18658062088@163.com</code> | <details><summary>🔑 <code>1t••••••••</code></summary><code>1tHJTZb6m5</code></details> | 🟢 正常 |
-| 63 | 美区 | <code>13436507280@163.com</code> | <details><summary>🔑 <code>wt••••••••</code></summary><code>wt5yA4jVs3</code></details> | 🟢 正常 |
+| 60 | 美区 | <code>18660308500@163.com</code> | <details><summary>🔑 <code>5n••••••••</code></summary><code>5nsFfH93HQ</code></details> | 🟢 正常 |
+| 61 | 美区 | <code>13895445558@163.com</code> | <details><summary>🔑 <code>bb••••••••</code></summary><code>bb6emDExUn</code></details> | 🟢 正常 |
+| 62 | 美区 | <code>18658062088@163.com</code> | <details><summary>🔑 <code>V1••••••••</code></summary><code>V1khvycVgw</code></details> | 🟢 正常 |
+| 63 | 美区 | <code>13436507280@163.com</code> | <details><summary>🔑 <code>yV••••••••</code></summary><code>yVwt6FwT1P</code></details> | 🟢 正常 |
 | 64 | 美区 | <code>13939719858@163.com</code> | <details><summary>🔑 <code>fe••••••••</code></summary><code>fegc64uTeQ</code></details> | 🟢 正常 |
-| 65 | 美区 | <code>13760254546@163.com</code> | <details><summary>🔑 <code>NP••••••••</code></summary><code>NPEJ7ZNYp2</code></details> | 🟢 正常 |
-| 66 | 美区 | <code>13660267714@163.com</code> | <details><summary>🔑 <code>2e••••••••</code></summary><code>2e5ertgKqS</code></details> | 🟢 正常 |
+| 65 | 美区 | <code>13760254546@163.com</code> | <details><summary>🔑 <code>NV••••••••</code></summary><code>NV8pcq2ZQE</code></details> | 🟢 正常 |
+| 66 | 美区 | <code>13660267714@163.com</code> | <details><summary>🔑 <code>hr••••••••</code></summary><code>hrK6P6QYDH</code></details> | 🟢 正常 |
 | 67 | 美区 | <code>13857750360@163.com</code> | <details><summary>🔑 <code>Uk••••••••</code></summary><code>UkJjk3Ddty</code></details> | 🟢 正常 |
 | 68 | 美区 | <code>ChristopherDavid4540T@outlook.com</code> | <details><summary>🔑 <code>5f••••••••</code></summary><code>5f1XKTvPPR</code></details> | 🟢 正常 |
 | 69 | 美区 | <code>13814142777@163.com</code> | <details><summary>🔑 <code>wd••••••••</code></summary><code>wdedx4x9xJ</code></details> | 🟢 正常 |
 | 70 | 美区 | <code>jinchujing165349@outlook.com</code> | <details><summary>🔑 <code>e5••••••••</code></summary><code>e5MFzUWkwH</code></details> | 🟢 正常 |
 | 71 | 美区 | <code>JennyLucero216Flk@outlook.com</code> | <details><summary>🔑 <code>K3••••••••</code></summary><code>K3Jt86b6XQ</code></details> | 🟢 正常 |
-| 72 | 美区 | <code>17709883200@163.com</code> | <details><summary>🔑 <code>c2••••••••</code></summary><code>c2ZRzNJXPG</code></details> | 🟢 正常 |
+| 72 | 美区 | <code>17709883200@163.com</code> | <details><summary>🔑 <code>U2••••••••</code></summary><code>U29vUzhNCX</code></details> | 🟢 正常 |
 | 73 | 美区 | <code>18095074597@163.com</code> | <details><summary>🔑 <code>FU••••••••</code></summary><code>FU9bYrvJ2z</code></details> | 🟢 正常 |
 | 74 | 美区 | <code>ShannonWells76391@outlook.com</code> | <details><summary>🔑 <code>Rs••••••••</code></summary><code>RszVWRxz9A</code></details> | 🟢 正常 |
 | 75 | 美区 | <code>JenniferWatkins43255@outlook.com</code> | <details><summary>🔑 <code>YV••••••••</code></summary><code>YV1twzySmu</code></details> | 🟢 正常 |
