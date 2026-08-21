@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-22 05:32:58` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-22 05:53:21` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -119,9 +119,9 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 70 | 美区 | <code>JennyLucero216Flk@outlook.com</code> | <details><summary>🔑 <code>K3••••••••</code></summary><code>K3Jt86b6XQ</code></details> | 🟢 正常 |
 | 71 | 美区 | <code>17709883200@163.com</code> | <details><summary>🔑 <code>mh••••••••</code></summary><code>mh3mDkDzwx</code></details> | 🟢 正常 |
 | 72 | 美区 | <code>18095074597@163.com</code> | <details><summary>🔑 <code>e6••••••••</code></summary><code>e6Fk7kThW2</code></details> | 🟢 正常 |
-| 73 | 美区 | <code>JenniferWatkins43255@outlook.com</code> | <details><summary>🔑 <code>YV••••••••</code></summary><code>YV1twzySmu</code></details> | 🟢 正常 |
-| 74 | 美区 | <code>BryanJones3372412@outlook.com</code> | <details><summary>🔑 <code>pW••••••••</code></summary><code>pWE7bZA4ua</code></details> | 🟢 正常 |
-| 75 | 美区 | <code>ShannonWells76391@outlook.com</code> | <details><summary>🔑 <code>gs••••••••</code></summary><code>gsJWngj4Bg</code></details> | 🟢 正常 |
+| 73 | 美区 | <code>ShannonWells76391@outlook.com</code> | <details><summary>🔑 <code>gs••••••••</code></summary><code>gsJWngj4Bg</code></details> | 🟢 正常 |
+| 74 | 美区 | <code>JenniferWatkins43255@outlook.com</code> | <details><summary>🔑 <code>YV••••••••</code></summary><code>YV1twzySmu</code></details> | 🟢 正常 |
+| 75 | 美区 | <code>BryanJones3372412@outlook.com</code> | <details><summary>🔑 <code>pW••••••••</code></summary><code>pWE7bZA4ua</code></details> | 🟢 正常 |
 | 76 | 美区 | <code>ChristopherDavid4540T@outlook.com</code> | <details><summary>🔑 <code>5f••••••••</code></summary><code>5f1XKTvPPR</code></details> | 🟢 正常 |
 | 77 | 美区 | <code>13760254546@163.com</code> | <details><summary>🔑 <code>nT••••••••</code></summary><code>nTzYDJB37r</code></details> | 🟢 正常 |
 | 78 | 美区 | <code>13974763333@163.com</code> | <details><summary>🔑 <code>jQ••••••••</code></summary><code>jQaS265Kdq</code></details> | 🟢 正常 |
