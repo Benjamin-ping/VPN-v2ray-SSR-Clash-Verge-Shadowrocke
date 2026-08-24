@@ -43,7 +43,7 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 <!-- ACCOUNTS_START -->
 ##### 💡 当前可用共享账号列表（系统自动更新）
 
-> 🕒 **上次刷新时间**：`2026-08-24 08:29:07` (北京时间，系统每 6 小时检测一次)
+> 🕒 **上次刷新时间**：`2026-08-24 10:06:36` (北京时间，系统每 6 小时检测一次)
 
 | 序号 | 地区 | 共享 Apple ID 账号 (双击全选) | 解锁密码 (点击展开) | 状态 |
 | :--- | :---: | :--- | :--- | :---: |
@@ -106,6 +106,21 @@ Shadowrocket 是一款功能强大的 iOS/macOS 网络工具，深受广大用�
 | 57 | 美区 | <code>17709883200@163.com</code> | <details><summary>🔑 <code>4B••••••••</code></summary><code>4BNgHPDdv6</code></details> | 🟢 正常 |
 | 58 | 美区 | <code>18095074597@163.com</code> | <details><summary>🔑 <code>CZ••••••••</code></summary><code>CZt63VR35z</code></details> | 🟢 正常 |
 | 59 | 美区 | <code>13819192265@163.com</code> | <details><summary>🔑 <code>kZ••••••••</code></summary><code>kZubhx3Ua3</code></details> | 🟢 正常 |
+| 60 | 美区 | <code>ShannonWells76391@outlook.com</code> | <details><summary>🔑 <code>NR••••••••</code></summary><code>NRAWwfwD2K</code></details> | 🟢 正常 |
+| 61 | 美区 | <code>WilliamPacheco71269d@outlook.com</code> | <details><summary>🔑 <code>S4••••••••</code></summary><code>S48cQPJecF</code></details> | 🟢 正常 |
+| 62 | 美区 | <code>JoelWoodrqu@outlook.com</code> | <details><summary>🔑 <code>EN••••••••</code></summary><code>ENg2qnX7RM</code></details> | 🟢 正常 |
+| 63 | 美区 | <code>JennyLucero216Flk@outlook.com</code> | <details><summary>🔑 <code>68••••••••</code></summary><code>68cGhmsHEn</code></details> | 🟢 正常 |
+| 64 | 美区 | <code>jinchujing165349@outlook.com</code> | <details><summary>🔑 <code>2f••••••••</code></summary><code>2fmNUd9zGg</code></details> | 🟢 正常 |
+| 65 | 美区 | <code>gerson907_fair@hotmail.com</code> | <details><summary>🔑 <code>WU••••••••</code></summary><code>WUyK9CKgYp</code></details> | 🟢 正常 |
+| 66 | 美区 | <code>tisacantara@hotmail.com</code> | <details><summary>🔑 <code>vU••••••••</code></summary><code>vU4RrgJxnS</code></details> | 🟢 正常 |
+| 67 | 美区 | <code>arwinionescu@hotmail.com</code> | <details><summary>🔑 <code>PA••••••••</code></summary><code>PAZP7Pke9p</code></details> | 🟢 正常 |
+| 68 | 美区 | <code>joshuah5078@icloud.com</code> | <details><summary>🔑 <code>3a••••••••</code></summary><code>3aDNzUxtN2</code></details> | 🟢 正常 |
+| 69 | 美区 | <code>taylorn341@icloud.com</code> | <details><summary>🔑 <code>h5••••••••</code></summary><code>h56ZuqevnS</code></details> | 🟢 正常 |
+| 70 | 美区 | <code>eddie_3052@icloud.com</code> | <details><summary>🔑 <code>3e••••••••</code></summary><code>3eHH8KAtjq</code></details> | 🟢 正常 |
+| 71 | 美区 | <code>zangwill_43812@icloud.com</code> | <details><summary>🔑 <code>nn••••••••</code></summary><code>nnA6ccVj3V</code></details> | 🟢 正常 |
+| 72 | 美区 | <code>brittany_314141@icloud.com</code> | <details><summary>🔑 <code>rz••••••••</code></summary><code>rzkjfw6Bvf</code></details> | 🟢 正常 |
+| 73 | 美区 | <code>18658062088@163.com</code> | <details><summary>🔑 <code>A2••••••••</code></summary><code>A2Z1YVQhQ1</code></details> | 🟢 正常 |
+| 74 | 美区 | <code>13512904429@163.com</code> | <details><summary>🔑 <code>cU••••••••</code></summary><code>cU6APhcMeE</code></details> | 🟢 正常 |
 
 <!-- ACCOUNTS_END -->
 
